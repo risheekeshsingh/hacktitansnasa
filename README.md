@@ -341,32 +341,6 @@ FlameLens is optimized for 1-click zero-configuration deployment on [Vercel](htt
 
 ---
 
-## 🎬 2-Minute Demo Video Script
-
-**Title**: *FlameLens — Transforming Microgravity Combustion Science into Spacecraft Fire Safety*  
-**Duration**: 120 seconds (2:00)
-
-* **[0:00 - 0:25] The Problem & Hook**
-  * *(Visual: Dark space with glowing spherical flame comparison; headline "Fire behaves differently in space".)*
-  * **Narrator**: *"When a fire starts in space, everything we know on Earth fails. There is no buoyancy. Warm smoke does not rise. Instead, flames form eerie, pale blue spheres that burn cooler, linger undetected, and accelerate under the slightest whisper of cabin airflow. For future Artemis Moon bases and Mars transit vehicles operating under elevated oxygen atmospheres, fire is the ultimate existential threat. Welcome to FlameLens."*
-
-* **[0:25 - 0:50] The 22-Experiment Catalog & Live Fire-Risk Scoring**
-  * *(Visual: Live walkthrough of `/experiments` with instant filtering, then transition to `/rankings`.)*
-  * **Narrator**: *"FlameLens synthesizes decades of peer-reviewed combustion experiments from NASA's Saffire, FLEX, BASS, and international payloads into an interactive intelligence hub. Here on the Rankings page, mission planners don't just view static data—they can interactively adjust weights for fire-risk severity, exploration atmosphere relevance, and suppression value to recompute rankings live, backed by radar profiles and condition scatter plots."*
-
-* **[0:50 - 1:15] Multi-Experiment Comparison & AI Assistant**
-  * *(Visual: Compare Saffire-I vs FLEX-2 on `/compare`, then jump to `/insights`.)*
-  * **Narrator**: *"With our Compare engine, engineers can contrast multiple experiments side-by-side with automated delta summaries. In our AI Safety Assistant, astronauts and designers can ask real-world questions in English or Hindi. Powered by Claude 3.5 Sonnet with a 100% resilient offline fallback engine, every brief cites verified experiment IDs with strict guardrails against hallucination."*
-
-* **[1:15 - 1:40] Educational Simulator & Quiz Certification**
-  * *(Visual: Dragging gravity slider on `/safety-guide` canvas simulator from 1g to 0g; showing completion quiz on `/learn`.)*
-  * **Narrator**: *"To inspire the next generation, our 2D physics simulator illustrates how varying gravity from Earth to Moon to Mars transforms flame shapes, paired with an 8-question certified knowledge quiz."*
-
-* **[1:40 - 2:00] Impact & Future Work**
-  * *(Visual: Summary slide on `/about`, showing 4-horizon roadmap and NASA attribution.)*
-  * **Narrator**: *"FlameLens transforms static scientific PDFs into living, actionable safety intelligence—saving engineering hours, accelerating habitat material screening, and keeping future explorers safe as humanity journeys back to the Moon and on to Mars. Thank you."*
-
----
 
 ## 👥 Team & Acknowledgments
 
