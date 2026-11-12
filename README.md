@@ -300,30 +300,7 @@ All scientific parameters, flame spread observations, and historical records are
 
 ---
 
-## ☁️ Vercel Deployment Guide
 
-FlameLens is optimized for 1-click zero-configuration deployment on [Vercel](https://vercel.com):
-
-1. **Push to GitHub**:
-   Ensure your local changes are committed and pushed to your GitHub repository.
-
-2. **Import Project to Vercel**:
-   * Navigate to [Vercel Dashboard](https://vercel.com/dashboard) and click **"Add New Project"**.
-   * Select your `flamelens` repository.
-   * Framework Preset: **Next.js** (detected automatically).
-   * Root Directory: `./` (default).
-
-3. **Configure Environment Variables (Optional)**:
-   Under **Environment Variables**, add:
-   * `ANTHROPIC_API_KEY`: Your Anthropic API Key (optional).
-   * `ANTHROPIC_MODEL`: `claude-3-5-sonnet-20241022` (optional).
-   * `NASA_API_KEY`: Your NASA API key (optional, default `DEMO_KEY`).
-
-4. **Deploy**:
-   * Click **Deploy**. Vercel will run `npm run build` and generate all 54 static/dynamic routes in ~60 seconds.
-   * Once deployed, your production URL (e.g., `https://flamelens.vercel.app`) is immediately live!
-
----
 
 ## ✅ Hackathon Pre-Submission Checklist
 
